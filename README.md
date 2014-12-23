@@ -1,4 +1,4 @@
-image_cloud
+Image cloud
 ===========
 
 Simple tool to create an image cloud from the input files
